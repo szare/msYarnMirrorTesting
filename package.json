@@ -12,7 +12,8 @@
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
     "react-addons-test-utils": "^15.4.2",
-    "react-scripts": "0.9.5"
+    "react-scripts": "0.9.5",
+    "underscore": "^1.8.3"
   },
   "scripts": {
     "start": "react-scripts start",
